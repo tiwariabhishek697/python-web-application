@@ -1,0 +1,14 @@
+scikit-image
+scikit-learn
+imageio
+flask
+flask_cors
+numpy
+matplotlib
+opencv-python
+imutils
+pillow
+cmake
+dlib
+face_recognition
+
