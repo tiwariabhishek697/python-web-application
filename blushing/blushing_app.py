@@ -76,4 +76,4 @@ def blush():
 	return send_file("blush_output_images\\'blushed_'+{}+'_'+{}+'.png'".format(t1,s1),mimetype='image/png')
 
 if __name__=='__main__':
-	app.run(host='0.0.0.0',debug=True,port=8080)
+	app.run(host='0.0.0.0',debug=True,port=8088)
